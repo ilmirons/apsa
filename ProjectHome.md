@@ -1,0 +1,1 @@
+A small Python project developed for the course of Design & analysis of algorithm. Solve peg solitaire using tree search, without any interaction with user. Includes some code from aima-python.
